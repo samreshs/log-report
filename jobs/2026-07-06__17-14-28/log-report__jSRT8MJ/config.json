@@ -1,0 +1,12 @@
+{
+    "task": {
+        "path": "log-report"
+    },
+    "trial_name": "log-report__jSRT8MJ",
+    "trials_dir": "jobs/2026-07-06__17-14-28",
+    "environment": {
+        "type": "docker",
+        "force_build": true
+    },
+    "job_id": "b57da859-40fb-4944-b5b5-750c9bcdf10d"
+}
